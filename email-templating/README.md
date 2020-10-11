@@ -7,6 +7,6 @@
 4. `npm start` command can be used to generate the HTML file from the template.
 
 ### Resources
-1. Pug syntax interactive tutorial - [Link](https://cssdeck.com/labs/learning-the-jade-templating-engine-syntax)
+1. Pug syntax interactive playground - [Link](https://pughtml.com/)
 2. Pug documentation - [Link](https://pugjs.org/api/getting-started.html) 
 3. HTML to Pug online contverter - [Link](https://html-to-pug.com/)
