@@ -1,0 +1,19 @@
+doctype html
+head
+  meta(charset='utf-8')
+  title
+body
+  table(border='0' cellpadding='0' cellspacing='0' width='600')
+    tr
+      td.stack-column-center(valign='top' align='center' width='50%')
+        table(border='0' cellpadding='0' cellspacing='0' width='100%')
+          each client in clients
+            tr
+              td(style='border:1px solid black; padding:10px;')
+                | #{client["client-name"]}
+            tr
+              td(style='border:1px solid black; padding:10px;')
+                | #{client["task-type"]}
+            tr
+              td(style='border:1px solid black; padding:10px;')
+                | #{client["hourly-rate"]}

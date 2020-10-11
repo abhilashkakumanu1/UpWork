@@ -1,0 +1,14 @@
+{ "clients":
+    [
+        {
+          "client-name": "James Don",
+          "task-type": "Research",
+          "hourly-rate": 50
+        },
+        {
+          "client-name": "James Mon",
+          "task-type": "Study",
+          "hourly-rate": 90
+        }
+    ]
+}
